@@ -1,0 +1,21 @@
+body {
+    font-family:sans-serif ;
+}
+h1{
+}
+p{
+    font-size: 25px;
+}
+.link-header{
+    font-size: 25px;
+}
+.link-nav{
+    font-size: 25px;
+}
+.link-header:hover{
+    color: orangered;
+}
+.link-nav:hover{
+    color: orangered;
+}
+
